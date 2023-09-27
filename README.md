@@ -9,7 +9,3 @@ This is a static homepage typically utilized for product marketing. Navigation t
 * Styled Components
 * React Router
 * React Hooks
-
-# Screenshot
-<img src="./UltraDesktop.png" alt="the screenshot of the app large screen"/>
-<img src="./UltraIPhone.png" alt="the screenshot of the app large screen"/>
