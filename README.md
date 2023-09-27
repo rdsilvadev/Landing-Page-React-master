@@ -1,14 +1,8 @@
-# Product Landing Page Template
-
-This gorgeous responsive website is a static landing page built with React, styled-components, react-router, and react hooks. All the components are reusable and can be used for any dynamic content. It's fully responsive for all the platforms and hosted using Netlify
-
 # Description 
 
-This is a static landing page ususally used for marketting of products. You can navigate to different pages possible due to react-router. I always wanted to learn styled-components and building a project is a practical way to learn it.
-The only challenge I faced is using styled-components, it was intimidating at first and since I used regular CSS and SASS it was weird without any classnames. Atleast styled-components are similar to SASS in terms of nesting. I also need to get used to the different folder structure you make while using styled-components. Anyways I refered to this doc - [styled component doc](https://styled-components.com/).
+This is a static homepage typically utilized for product marketing. Navigation to various pages is made possible through react-router. I’ve always had an interest in learning styled-components, and undertaking a project seemed like a practical approach. The sole challenge I encountered was the use of styled-components, which initially seemed daunting, especially since I was accustomed to regular CSS and SASS without any classnames. 
 
-
-[Click here to see the live demo](https://ultra-b73fc5.netlify.app/)
+[Click here to see the live demo](https://rdsilvadev-landing-page.netlify.app/sign-up)
 
 # Tech Stack
 * React
@@ -19,6 +13,3 @@ The only challenge I faced is using styled-components, it was intimidating at fi
 # Screenshot
 <img src="./UltraDesktop.png" alt="the screenshot of the app large screen"/>
 <img src="./UltraIPhone.png" alt="the screenshot of the app large screen"/>
-
-# Credits
-@briandesign
